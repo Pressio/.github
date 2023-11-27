@@ -8,4 +8,4 @@ Usefule resources:
 
 - [tutorials](https://pressio.github.io/pressio-tutorials/): tutorials suite for the pressio C++ library that also leverages pressio-demoapps. 
 
-- [tools and workflows](https://github.com/Pressio): comprises a set of algorithms for constructing and exploiting ROMs that rely on abstract base classes that encapsulate all the information needed to run a given algorithm. 
+- [tools and workflows](https://github.com/Pressio): comprises a set of algorithms for constructing and exploiting ROMs that rely on abstract base classes that encapsulate all the information needed to run a given algorithm. This provides the so-called "outer loop" capabilities for exloting ROMs, e.g. in UQ. 
