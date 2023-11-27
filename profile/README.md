@@ -1,4 +1,4 @@
-Pressio is an ecosystem for *developing*, *applying* and *using* projection-based model reduction (pROM) methods for dynamical systems. 
+Pressio is an ecosystem for *developing*, *applying* and *using* projection-based model reduction (pROM) methods. 
 A key goal is to mitigate the intrusive nature of pROMs for large-scale codes, and providing a framework to foster research of new ideas and as well as more broad testing. 
 
 Usefule resources: 
