@@ -8,6 +8,6 @@ We have been developing this ecosystem from the ground up and currently it encom
 
 - [tools and workflows](https://github.com/Pressio): comprises a set of algorithms for constructing and exploiting ROMs that rely on abstract base classes that encapsulate all the information needed to run a given algorithm. This provides the so-called "outer loop" capabilities for exploiting ROMs, e.g. in UQ. 
 
-- [tutorials](https://pressio.github.io/pressio-tutorials/): tutorials suite showing to use the pressio C++ library, and also end-to-end ROMs using pressio-demoapps (we are also working towards integrating the tools-and-workflows library into this).
+- [tutorials](https://pressio.github.io/pressio-tutorials/): tutorials and demos showing how to use the pressio C++ library, and also end-to-end ROMs using pressio-demoapps (we are also working towards integrating the tools-and-workflows library into this).
 
 
