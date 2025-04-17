@@ -1,6 +1,6 @@
 Pressio is an ecosystem for *developing*, *applying* and *using* projection-based model reduction (pROM) methods. 
 A key goal is to mitigate the intrusive nature of pROMs and provide a framework to foster research of new ideas as well as incentivize broader adoption and usability. 
-Developed from the ground up, it revolves around the following main entities: 
+Developed from the ground up, it revolves around the following main libraries: 
 
 - [pressio-rom](https://github.com/Pressio/pressio-rom): a C++ library for constructing and solving reduced-order models (ROMs), with or without hyper-reduction. It also includes modular components for time integration and nonlinear solvers. Through the adoption of generic programming and well-defined interfaces, the library is agnostic to the underlying application and data types, enabling seamless integration with diverse numerical solvers and HPC environments.
 
