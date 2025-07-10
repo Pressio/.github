@@ -12,7 +12,7 @@ Developed from the ground up, it revolves around the following libraries:
 
 - [rom-tools and workflows](https://github.com/Pressio/rom-tools-and-workflows): a Python library comprising a set of algorithms for constructing and exploiting ROMs that rely on abstract base classes that encapsulate all the information needed to run a given algorithm. This provides the so-called "outer loop" capabilities for exploiting ROMs, e.g. in UQ. 
 
-- [pressio-tutorials](https://pressio.github.io/pressio-tutorials/): tutorials and demos showing how to use the pressio C++ library, and also end-to-end ROMs using pressio-demoapps (we are also working towards integrating the tools-and-workflows library into this).
+- [pressio-tutorials](https://pressio.github.io/pressio-tutorials/): demos showing end-to-end ROMs using pressio-demoapps.
 
 - [pressio-schwarz](https://pressio.github.io/pressio-schwarz/): implements Schwarz coupling for projection-based ROMs with Pressio leveraging some of the apps in pressio-demoapps.
 
