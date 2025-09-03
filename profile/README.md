@@ -14,5 +14,5 @@ Developed from the ground up, it revolves around the following libraries:
 
 - [pressio-tutorials](https://pressio.github.io/pressio-tutorials/): demos showing end-to-end ROMs using pressio-demoapps.
 
-- [pressio-schwarz](https://pressio.github.io/pressio-schwarz/): implements Schwarz coupling for projection-based ROMs with Pressio leveraging some of the apps in pressio-demoapps.
+- [pressio-schwarz](https://github.com/Pressio/pressio-schwarz): implements Schwarz coupling for projection-based ROMs with Pressio leveraging some of the apps in pressio-demoapps.
 
